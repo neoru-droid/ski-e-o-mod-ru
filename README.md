@@ -3,7 +3,7 @@
 Мод-меню на русском, готовое стартовое сохранение и таблица Cheat Engine для **Ski-E-O! Ski Resort Tycoon** (сборка `CL7848`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября, далее открыто всем)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9?utm_source=github&utm_medium=readme&utm_campaign=ski_e_o)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября: подписка от 120 ₽ со скидкой 20% или разовая покупка поста за 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9?utm_source=github&utm_medium=readme&utm_campaign=ski_e_o)**
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/ski-e-o-mod-ru/releases)**
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
@@ -56,6 +56,8 @@
 ## Обратная связь и проекты автора
 
 Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/ski-e-o-mod-ru/issues).
+
+Предложить свою игру в приоритетную очередь (350 ₽) или заказать разбор вне очереди (750 ₽) можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
 
 Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=ski_e_o) · [профиль на GitHub](https://github.com/neoru-droid)
 
