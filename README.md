@@ -3,9 +3,9 @@
 Старт с бюджетом `5 000 000 $`, заморозка счёта, репутация курорта, бесплатные снегопушки `x3` и быстрая камера + таблица `.CT` (`v1.0`, сборка `CL7848`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября от 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9?utm_source=github&utm_medium=readme&utm_campaign=ski_e_o)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ 7 дней до 28 ноября: 120 ₽/мес на все релизы или разовый пост 150 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9)**
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/ski-e-o-mod-ru/releases)**
-- **Заказ своей игры:** в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Заказ своей игры:** в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Ski-E-O! Ski Resort Tycoon - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -29,4 +29,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/ski-e-o-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=ski_e_o) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
