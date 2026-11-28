@@ -3,9 +3,9 @@
 Старт с бюджетом `5 000 000 $`, заморозка счёта, репутация курорта, бесплатные снегопушки `x3` и быстрая камера + таблица `.CT` (`v1.0`, сборка `CL7848`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ 7 дней до 28 ноября: 120 ₽/мес на все релизы или разовый пост 150 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9)**
-- **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/ski-e-o-mod-ru/releases)**
-- **Заказ своей игры:** в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/ski-e-o-mod-ru/releases/download/v1.0.0/SkiEO-Trainer-RU-v1.0.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/ski-e-o-mod-ru/releases)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Ski-E-O! Ski Resort Tycoon - Мод-меню](docs/screenshots/cover_wide.png)
 
